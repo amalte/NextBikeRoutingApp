@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.malte.NextBikeRouter</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>nextbikerouter</string>
+			</array>
+		</dict>
+	</array>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>we need your location to calculate the best route to travel using Nextbike stations</string>
+</dict>
+</plist>
